@@ -10,35 +10,27 @@
 <tr>
 <td width="50%" valign="top">
 
-### 👋 About Me  
+### 👋 About Me
 
-- 🌱 Currently learning **Full Stack Development**  
-- 🔭 Exploring opportunities to become a **Freelancer**  
-- 💡 Passionate about **frontend & backend integration**  
-- 💬 Open to feedback and encouragement  
-- ⚡ Love solving problems through code  
+- 🌱 Frontend-focused dev exploring **full stack** possibilities
+- 🔭 Building toward **freelance-friendly** projects
+- 💡 Love connecting UI polish with reliable APIs
+- 💬 Always open to feedback and pairing
+- ⚡ Solve problems with curiosity and care
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Tech Stack  
+### 🚀 Tech Stack
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=fff)
-
-**Backend & Database:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=fff)
-
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=fff)
 
 </td>
 </tr>
@@ -52,13 +44,9 @@
 
 <div align="center">
   
-![Noland's GitHub stats](https://github-readme-stats.vercel.app/api?username=noches0909&show_icons=true&theme=tokyonight)  
+![Noland's GitHub stats](https://github-readme-stats.vercel.app/api?username=noches0909&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noches0909&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noches0909&theme=tokyonight)  
-
-![Noland's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=noches0909&bg_color=ffffff&color=718096&line=CE1D2D&point=2D3748&area=true&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noches0909&theme=tokyonight)
 
 </div>
 
