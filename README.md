@@ -2,7 +2,9 @@
 
 # 👋 Hi, I'm Noland
 
-**Frontend Developer · Learning Full Stack · Future Freelancer**
+<a href="https://noches0909.github.io/blog/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=Frontend+Developer;Learning+Full+Stack;Writing+notes+and+project+logs;Building+small+but+usable+things" alt="Typing SVG" />
+</a>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=noches0909&style=flat-square&color=0ea5e9)](https://github.com/noches0909)
 [![GitHub followers](https://img.shields.io/github/followers/noches0909?style=flat-square&color=22c55e)](https://github.com/noches0909?tab=followers)
