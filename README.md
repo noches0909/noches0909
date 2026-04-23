@@ -14,10 +14,10 @@
 
 ## ✨ About Me
 
-- 🌱 主攻前端，同时持续探索全栈开发
-- 🔭 正在打造更贴近自由职业场景的项目能力
-- 💡 喜欢把细节体验和稳定接口结合起来
-- 🤝 欢迎交流、提建议或一起协作
+- 主要写前端，日常会碰一些 Node.js、数据库和部署相关的东西
+- 最近在补全全栈能力，重点是把项目从页面做到可用、可维护
+- 喜欢整理踩坑记录和学习笔记，博客里会放一些真实项目里的问题和思考
+- 欢迎交流技术、项目经验，或者给我的代码提建议
 
 ## 🧰 Tech Stack
 
@@ -47,7 +47,7 @@
 ## 📫 Connect
 
 - GitHub: [@noches0909](https://github.com/noches0909)
-- Blog / Portfolio: _Coming Soon_ 🚧
+- Blog: [noches0909.github.io/blog](https://noches0909.github.io/blog/)
 
 ---
 
