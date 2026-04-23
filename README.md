@@ -1,61 +1,56 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CE1D2D&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Noland+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Learning+Full+Stack+Development+%F0%9F%9A%80;Future+Freelancer+%E2%9C%A8)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=noches0909&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/noches0909?style=flat-square&color=yellow" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/followers/noches0909?style=flat-square&color=green" alt="GitHub Followers" />
-</p>
 <div align="center">
-<table> 
-<tr>
-<td width="50%" valign="top">
 
-### 👋 About Me
+# 👋 Hi, I'm Noland
 
-- 🌱 Frontend-focused dev exploring **full stack** possibilities
-- 🔭 Building toward **freelance-friendly** projects
-- 💡 Love connecting UI polish with reliable APIs
-- 💬 Always open to feedback and pairing
-- ⚡ Solve problems with curiosity and care
+**Frontend Developer · Learning Full Stack · Future Freelancer**
 
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=fff)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=fff)
-
-</td>
-</tr>
-</table>
-
----
-
-</div>
-
-### 📊 GitHub Activity  
-
-<div align="center">
-  
-![Noland's GitHub stats](https://github-readme-stats.vercel.app/api?username=noches0909&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noches0909&theme=tokyonight)
+[![Profile Views](https://komarev.com/ghpvc/?username=noches0909&style=flat-square&color=0ea5e9)](https://github.com/noches0909)
+[![GitHub followers](https://img.shields.io/github/followers/noches0909?style=flat-square&color=22c55e)](https://github.com/noches0909?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/noches0909?style=flat-square&color=f59e0b)](https://github.com/noches0909?tab=repositories)
 
 </div>
 
 ---
 
-### 📫 Connect with Me  
-- GitHub: [@noches0909](https://github.com/noches0909)  
-- Blog/Portfolio: _Coming Soon_ 🚧  
+## ✨ About Me
+
+- 🌱 主攻前端，同时持续探索全栈开发
+- 🔭 正在打造更贴近自由职业场景的项目能力
+- 💡 喜欢把细节体验和稳定接口结合起来
+- 🤝 欢迎交流、提建议或一起协作
+
+## 🧰 Tech Stack
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=fff)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 
 ---
 
-⭐️ From [noches0909](https://github.com/noches0909)
+## 📊 GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=noches0909&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=noches0909&theme=tokyonight" alt="github streak" />
+</div>
+
+---
+
+## 📫 Connect
+
+- GitHub: [@noches0909](https://github.com/noches0909)
+- Blog / Portfolio: _Coming Soon_ 🚧
+
+---
+
+<div align="center">
+  <sub>⭐ Thanks for visiting my profile</sub>
+</div>
